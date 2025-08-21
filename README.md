@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mintscrew-bar 
-- 👀 I’m interested in ... front engineering, design
-- 🌱 I’m currently learning ... css, html, ... those kinds of things
+- 👀 I’m interested in ... full stack
+- 🌱 I’m currently learning ... java 17, postgre sql,  react , ... those kinds of things
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... email : mangovehicle21@gmail.com
 - 😄 Pronouns: ...
